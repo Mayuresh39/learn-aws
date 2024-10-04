@@ -11,25 +11,28 @@
           <mxGeometry x="70" y="30" width="720" height="500" as="geometry" />
         </mxCell>
         <mxCell id="FLDV6rNdcP4nleM0Z4pC-4" value="&lt;font style=&quot;&quot; color=&quot;#000000&quot;&gt;VPC&lt;/font&gt;" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc2;strokeColor=#8C4FFF;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#AAB7B8;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="90" width="570" height="410" as="geometry" />
-        </mxCell>
-        <mxCell id="FLDV6rNdcP4nleM0Z4pC-7" value="Private subnet" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#00A4A6;fillColor=#E6F6F7;verticalAlign=top;align=left;spacingLeft=30;fontColor=#147EBA;dashed=0;" vertex="1" parent="FLDV6rNdcP4nleM0Z4pC-4">
-          <mxGeometry x="80" y="230" width="130" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="FLDV6rNdcP4nleM0Z4pC-8" value="Private subnet" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#00A4A6;fillColor=#E6F6F7;verticalAlign=top;align=left;spacingLeft=30;fontColor=#147EBA;dashed=0;" vertex="1" parent="FLDV6rNdcP4nleM0Z4pC-4">
-          <mxGeometry x="370" y="230" width="130" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="FLDV6rNdcP4nleM0Z4pC-9" value="Public subnet" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#7AA116;fillColor=#F2F6E8;verticalAlign=top;align=left;spacingLeft=30;fontColor=#248814;dashed=0;" vertex="1" parent="FLDV6rNdcP4nleM0Z4pC-4">
-          <mxGeometry x="80" y="30" width="130" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="FLDV6rNdcP4nleM0Z4pC-10" value="Public subnet" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#7AA116;fillColor=#F2F6E8;verticalAlign=top;align=left;spacingLeft=30;fontColor=#248814;dashed=0;" vertex="1" parent="FLDV6rNdcP4nleM0Z4pC-4">
-          <mxGeometry x="360" y="30" width="130" height="130" as="geometry" />
+          <mxGeometry x="140" y="90" width="570" height="410" as="geometry" />
         </mxCell>
         <mxCell id="FLDV6rNdcP4nleM0Z4pC-6" value="&lt;font color=&quot;#000000&quot;&gt;Availability Zone&lt;/font&gt;" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;whiteSpace=wrap;html=1;" vertex="1" parent="FLDV6rNdcP4nleM0Z4pC-4">
-          <mxGeometry x="320" y="10" width="210" height="360" as="geometry" />
+          <mxGeometry x="340" y="20" width="210" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="FLDV6rNdcP4nleM0Z4pC-5" value="&lt;font color=&quot;#000000&quot;&gt;Availability Zone&lt;/font&gt;" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;whiteSpace=wrap;html=1;" vertex="1" parent="FLDV6rNdcP4nleM0Z4pC-4">
-          <mxGeometry x="60" y="10" width="200" height="360" as="geometry" />
+        <mxCell id="FLDV6rNdcP4nleM0Z4pC-8" value="Private subnet" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#00A4A6;fillColor=#E6F6F7;verticalAlign=top;align=left;spacingLeft=30;fontColor=#147EBA;dashed=0;" vertex="1" parent="FLDV6rNdcP4nleM0Z4pC-4">
+          <mxGeometry x="390" y="260" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="FLDV6rNdcP4nleM0Z4pC-10" value="Public subnet" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#7AA116;fillColor=#F2F6E8;verticalAlign=top;align=left;spacingLeft=30;fontColor=#248814;dashed=0;" vertex="1" parent="FLDV6rNdcP4nleM0Z4pC-4">
+          <mxGeometry x="390" y="110" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="FLDV6rNdcP4nleM0Z4pC-7" value="Private subnet" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#00A4A6;fillColor=#E6F6F7;verticalAlign=top;align=left;spacingLeft=30;fontColor=#147EBA;dashed=0;" vertex="1" parent="FLDV6rNdcP4nleM0Z4pC-4">
+          <mxGeometry x="40" y="240" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="FLDV6rNdcP4nleM0Z4pC-5" value="&lt;font color=&quot;#000000&quot;&gt;Availability Zone&lt;/font&gt;" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;whiteSpace=wrap;html=1;" vertex="1" parent="FLDV6rNdcP4nleM0Z4pC-7">
+          <mxGeometry x="-10" y="-220" width="200" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="FLDV6rNdcP4nleM0Z4pC-9" value="Public subnet" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#7AA116;fillColor=#F2F6E8;verticalAlign=top;align=left;spacingLeft=30;fontColor=#248814;dashed=0;" vertex="1" parent="FLDV6rNdcP4nleM0Z4pC-7">
+          <mxGeometry x="15" y="-150" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="FLDV6rNdcP4nleM0Z4pC-11" value="VPC CIDR Range&lt;div&gt;10.0.0.0/16&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="200" width="90" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
